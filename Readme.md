@@ -154,3 +154,4 @@ Everyone is welcome to contribute. Please take a moment to read the [contributin
 Logo by [Sara Vieira](https://github.com/SaraVieira) and [Andrey Okonetchnikov](https://github.com/okonet).
 
 MIT License, see the included [License.md](License.md) file.
+## > ✅ Updated docs with improved formatting or extra info.
